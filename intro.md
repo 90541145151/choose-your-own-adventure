@@ -1,12 +1,14 @@
-# The Dark Forest
+# The Journal of Shadows
 
-You wake up in a misty forest with no memory of how you got there.
-The air is cold and damp, and you can barely see five feet ahead.
+You open the glowing journal.  
+The ink on the page shimmers and rearranges itself until you can read a single sentence:
 
-You hear two sounds — one is a faint whisper to your left, and the
-other is a crunching of leaves to your right.
+> “Your journey began long before this night. Seek the mirror in the lake.”
 
-What will you do next?
+The candle suddenly flickers out, and you hear footsteps outside the cabin.  
+You quickly glance around — there’s a back door and a small window.
 
-- [Follow the whisper](whisper.md)
-- [Walk toward the crunching sound](crunch.md)
+Do you:
+
+- [Escape through the back door](escape.md)
+- [Hide under the table and wait](whisper.md)
